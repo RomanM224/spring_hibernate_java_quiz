@@ -1,0 +1,83 @@
+body {
+  background-color: #ffcc66;
+}
+
+#scoreNumRed {
+	font-size: 150px;
+	color: #cc0000;
+}
+
+#scoreNumGreen {
+	font-size: 100px;
+	color: #03c712;
+}
+
+.home_button{
+	margin-top:20px;
+    margin-left:100px;
+    height:60px;
+    width: 200px;
+    font-size: 20px;
+    background-color:#FFD700;
+    border-radius:10px;
+    display:block;
+}
+.home_button:hover{
+	margin-top:20px;
+    margin-left:100px;
+    height:60px;
+    width: 200px;
+    font-size: 20px;
+    background-color:#FFF;
+    border-radius:10px;
+}
+
+.questionBox {
+	margin-left: 100px;
+	margin-top: 100px;
+	width: 1400px;
+	height: 150px;
+	background-color: #a67c52;
+	border-radius: 10px;
+	border: solid 5px;
+	border-color: #790000;
+	text-align: center;
+	padding: 0px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.answerText {
+	margin-top: 10px;
+	margin-left: 200px;
+	background-color: #a67c52;
+	height: 120px;
+	width: 1200px;
+	border: solid 2px;
+	font-size: 20px;
+	padding: 10px;
+	display: block;
+	border-color: #790000;
+	border-radius: 10px;
+}
+
+.answerTextRight {
+	margin-top: 10px;
+	margin-left: 200px;
+	background-color: #00ea00;
+	height: 120px;
+	width: 1200px;
+	border: solid 2px;
+	font-size: 20px;
+	padding: 10px;
+	display: block;
+	border-color: #790000;
+	border-radius: 10px;
+}
+
+.myAnswer{
+	margin-left: 100px;
+	font-size: 20px;
+	font-weight:bold;
+}
+
